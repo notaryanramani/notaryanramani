@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NotAryanRamani
+- 👋 Hi, I’m Aryan Ramani
 - 👀 I’m interested in Coding 
 - 🌱 I’m currently learning Python Libraries
 - 💞️ I’m looking to collaborate on any projects 
