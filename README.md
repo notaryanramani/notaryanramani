@@ -6,6 +6,7 @@
 * Programming Languages: Python
 * Machine Learning: Supervised & Unsupervised
 * Data Preprocessing
+* Web Framework: Flask
 * Cloud Platforms: AWS
 
 # Contact Me:
