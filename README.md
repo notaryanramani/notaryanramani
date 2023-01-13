@@ -1,5 +1,6 @@
-# <div align='center'>Aryan Ramani
-## An aspiring Data Scientist and a Machine Learning Enthusiast. Currently pursuing Bachelors of Computer Application from Vivekananda Institute of Professional Studies, New Delhi. Open to collaberate on projects and research. Feel free to connect. </div>
+# <div align='center'>Aryan Ramani </div>
+## <div align='center'> An aspiring Data Scientist and a Machine Learning Enthusiast. Currently pursuing Bachelors of Computer Application from Vivekananda Institute of Professional Studies, New Delhi. Open to collaberate on projects and research. Feel free to connect. </div>
+
 
 # Skills
 * Programming Languages: Python
