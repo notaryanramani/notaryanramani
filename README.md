@@ -11,6 +11,7 @@
 
 # Contact Me:
 * [Twitter](https://twitter.com/notaryanramani)
+* [E-Mail](mailto:aryanramani67@gmail.com)
 <!---
 NotAryanRamani/NotAryanRamani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
