@@ -5,7 +5,7 @@
 # Skills
 * Programming Languages: Python
 * Machine Learning: Supervised & Unsupervised
-* Deep Learning
+* Deep Learning: Computer Vision
 * Data Preprocessing
 * Web Framework: Flask
 * Cloud Platforms: AWS
