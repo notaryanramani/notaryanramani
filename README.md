@@ -16,7 +16,7 @@
 * [E-Mail](mailto:aryanramani67@gmail.com)
 
 # Github Stats
-[![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=notaryanramani)](https://github.com/anuraghazra/github-readme-stats)
+[![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=notaryanramani&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 NotAryanRamani/NotAryanRamani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
