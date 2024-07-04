@@ -12,7 +12,6 @@
 * MLOps: Dockers
 
 # Contact Me:
-* [Twitter](https://twitter.com/aryanramani_ai)
 * [E-Mail](mailto:aryanramani67@gmail.com)
 
 # Github Stats
