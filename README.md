@@ -1,5 +1,5 @@
 # <div align='center'>Aryan Ramani </div>
-## <div align='center'> An aspiring Machine Learning Enthusiast. Completed Bachelors of Computer Application from Vivekananda Institute of Professional Studies, New Delhi. Open to collaberate on projects and research. Feel free to connect. </div>
+## <div align='center'> An aspiring Machine Learning Enthusiast. Completed Bachelors of Computer Application from Vivekananda Institute of Professional Studies, New Delhi. Open to collaborate on projects and research. Feel free to connect. </div>
 
 
 # Skills
