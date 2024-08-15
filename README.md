@@ -4,12 +4,12 @@
 
 # Skills
 * Programming Languages: Python
-* Machine Learning: Supervised & Unsupervised
+* Machine Learning: Linear Regression, Logistic Regression, Support Vector Machines, Decision Trees, Bagging, Boosting 
 * Deep Learning: Deep Neural Nets, Computer Vision, NLP, Transformers
 * Frameworks: PyTorch, Tensorflow/Keras
-* Web Framework: Flask
+* Web Framework: Flask, Streamlit
 * Cloud Platforms: AWS, Heroku
-* MLOps: Dockers
+* MLOps: Dockers, MLFlow
 
 # Contact Me:
 * [E-Mail](mailto:aryanramani67@gmail.com)
