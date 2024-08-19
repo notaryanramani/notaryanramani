@@ -15,7 +15,8 @@
 * [E-Mail](mailto:aryanramani67@gmail.com)
 
 # Github Stats
-[![Aryan's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=notaryanramani&theme=merko&hide_border=false&locale=en)](https://github.com/NotAryanRamani)
+[![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=notaryanramani&theme=calm&show_icons=true)](https://github.com/NotAryanRamani)
+[![Aryan's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=notaryanramani&theme=calm&hide_border=false&locale=en)](https://github.com/NotAryanRamani)
 <!---
 NotAryanRamani/NotAryanRamani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
