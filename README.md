@@ -15,11 +15,11 @@
 * MLOps: Dockers, MLFlow
 
 ## Courses & Certifications
-* Introduction to Machine Learning - IIT Kharagpur | NPTEL
-* Neural Networks and Deep Learning | Coursera
-* Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization | Coursera
-* Structuring Machine Learning Projects | Coursera
-* Sequence Models | Coursera
+* Introduction to Machine Learning - IIT Kharagpur | [NPTEL](https://drive.google.com/file/d/1E9_J4lr1YShBy-9Y_BXAS5Qun0oLqmxt/view?usp=sharing), Govt of India
+* Neural Networks and Deep Learning | [Coursera](https://coursera.org/share/afa477de9f3a83d5f377219c3974c379)
+* Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization | [Coursera](https://coursera.org/share/b188db947916ebfd88906e9d144b4306)
+* Structuring Machine Learning Projects | [Coursera](https://coursera.org/share/91af1167a0d859efd3664ddd4e7f0735)
+* Sequence Models | [Coursera](https://coursera.org/share/884c99ec9823273ee58085484f98efce)
 
 ## Contact Me:
 * [E-Mail](mailto:aryanramani67@gmail.com)
