@@ -1,8 +1,6 @@
 ## Welcome to my github
-* 🎓 MSc Artificial Intelligence student @ National College of Ireland.
-* 💻 3 month of Industry Experience and over 1+ year of project development experience.
-* 🧠 I like to train and reproduce neural networks from scratch on fairly large datasets.
-* ✍️ Writing blogs on [Medium](https://medium.com/@aryanramani67) sometimes
+* 🎓 MSc Artificial Intelligence @ National College of Ireland.
+* 💻 9 month of Industry Internship Experienc.
 * 📌 Checkout my pinned repositories for some of my best work 😄.
 
 
